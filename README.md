@@ -20,7 +20,7 @@ Feel free to ask me anything related to these skills.
 
 I'm always open to connect and collaborate. You can reach out to me via:
  
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seyma-alkaym/)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seyma-alkaym/) [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaemaafadel1166s@gmail.com)
 
 
 Let's connect and share ideas!
