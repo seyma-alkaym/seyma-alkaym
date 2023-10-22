@@ -2,9 +2,6 @@
 
 Hi, I’m Şeyma Alkaym. This is my personal GitHub account where I share my passion for coding and collaborate with the amazing open-source community. Here's an in-depth look at who I am:
 
-## About Me 🚀
-
-I'm a dedicated software developer with a strong interest in web app development. I'm constantly exploring the latest technologies and striving to create innovative solutions.
 
 ## Skills 🛠️
 
