@@ -7,8 +7,20 @@ Hi, I’m Şeyma Alkaym. This is my personal GitHub account where I share my pas
 
 Here are some of my skills:
 
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java) ![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white) ![C#](https://img.shields.io/badge/C%23-%23512BD4?style=for-the-badge&logo=c%20sharp&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-%234EAA25?style=for-the-badge&logo=gnubash&logoColor=white) ![Spring](https://img.shields.io/badge/Spring%20Boot-%236DB33F?style=for-the-badge&logo=spring%20boot&logoColor=white) ![ReactJs](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=white) ![.Net](https://img.shields.io/badge/-%23512BD4?style=for-the-badge&logo=.net&logoColor=white) ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-%23CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) ![PostegreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+### DevOps
+- **Infrastructure as Code (IaC) and Configuration Management**: ![Ansible](https://img.shields.io/badge/Ansible-red?style=plastic&logo=ansible)
+- **(CI/CD)**: ![Jenkins](https://img.shields.io/badge/Jenkins-white?style=plastic&logo=jenkins) ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-white?style=plastic&logo=Azure%20DevOps)
+- **Containerization**: ![Docker](https://img.shields.io/badge/Docker-white?style=plastic&logo=docker) ![Kubernetes](https://img.shields.io/badge/Kubernetes-white?style=plastic&logo=kubernetes)
+- **Cloud Platforms**: ![Azure](https://img.shields.io/badge/Azure-white?style=plastic&logo=azure)
+- **Scripting**: ![Python](https://img.shields.io/badge/Python-white?style=plastic&logo=python) ![Bash](https://img.shields.io/badge/Bash-white?style=plastic&logo=gnubash&logoColor=%231D2D35)
+- **Version Control**: ![Git](https://img.shields.io/badge/git-%23F05032?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-white?style=plastic&logo=github&logoColor=%231D2D35)
 
+### Databases
+ - **Relational Databases**: ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-%23CC2927?style=plastic&logo=microsoftsqlserver&logoColor=white) ![PostegreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1?style=plastic&logo=postgresql&logoColor=white)
+
+### Web Development
+ - **Backend**: ![C#](https://img.shields.io/badge/C%23-%23512BD4?style=plastic&logo=c%20sharp&logoColor=white) ![.Net](https://img.shields.io/badge/-%23512BD4?style=plastic&logo=.net&logoColor=white) ![Java](https://img.shields.io/badge/Java-black?style=plastic&logo=java)   ![Spring](https://img.shields.io/badge/Spring%20Boot-%236DB33F?style=plastic&logo=spring%20boot&logoColor=white)
+ - **Frontend**: ![ReactJs](https://img.shields.io/badge/React-%2361DAFB?style=plastic&logo=react&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=plastic&logo=javascript&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=plastic&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-%231572B6?style=plastic&logo=css3&logoColor=white)
 
 Feel free to ask me anything related to these skills.
 
